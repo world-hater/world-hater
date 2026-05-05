@@ -21,7 +21,7 @@ ${\textsf{\color{#3677B6F0}he}}$ ${\textsf{\color{#3677B6F0}◞   }}$ ${\textsf{
 
   ${\textsf{\color{#5091C0FF}my main interest is sasuke from nrt}}$ ${\textsf{\color{#5091C0FF},}}$ ${\textsf{\color{#5091C0FF}talk to me. i am kind.}}$
 
-<img width="273" height="48" alt="image" src="https://github.com/user-attachments/assets/9de7a904-85eb-4826-bb94-068a841ca217" /> 
+<img width="300" height="66" alt="image" src="https://github.com/user-attachments/assets/350efdac-42c2-4b4c-9d65-554b0e202aa5" />
 <img width="566" height="43" alt="image" src="https://github.com/user-attachments/assets/15a934cb-a58c-4926-8de4-c724e6641825" />
 ${\textsf{\color{#3677B6F0}it sucks to suck.}}$
 </div>
