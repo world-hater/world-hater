@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Newsreader&pause=500&color=3677B6F0&center=true&width=435&lines=%E2%80%9COne+day%2C+eventually.+.+.+;I'll+have+destroyed+the+whole+world.;That+is+the+sole+reason+I+exist.%E2%80%9D)](https://git.io/typing-svg)
 
-<!--
-**world-hater/world-hater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+${\textsf{\color{#3677B6F0}clowny}}$    
+${\textsf{\color{#3677B6F0}he}}$ ${\textsf{\color{#3677B6F0}╱}}$ ${\textsf{\color{#3677B6F0}him}}$      ${\textsf{\color{#3677B6F0}7teen}}$  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<details>
+<summary> ${\textsf{\color{#5091C0FF}extra}}$ </summary>
+  
+  ${\textsf{\color{#5091C0FF}audhd}}$ ${\textsf{\color{#5091C0FF}+}}$ ${\textsf{\color{#5091C0FF}queer}}$   
+  
+  ${\textsf{\color{#5091C0FF}my main interest is sasuke from nrt}}$ ${\textsf{\color{#5091C0FF},}}$ ${\textsf{\color{#5091C0FF}talk to me. im am kind}}$
