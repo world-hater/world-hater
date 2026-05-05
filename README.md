@@ -17,4 +17,4 @@ ${\textsf{\color{#3677B6F0}he}}$ ${\textsf{\color{#3677B6F0}╱}}$ ${\textsf{\co
   
   ${\textsf{\color{#5091C0FF}my main interest is sasuke from nrt}}$ ${\textsf{\color{#5091C0FF},}}$ ${\textsf{\color{#5091C0FF}talk to me. im am kind}}$
 
-<img width="273" height="48" alt="image" src="https://github.com/user-attachments/assets/9de7a904-85eb-4826-bb94-068a841ca217" />
+<img width="273" height="48" alt="image" src="https://github.com/user-attachments/assets/9de7a904-85eb-4826-bb94-068a841ca217" /> ${\textsf{\color{#83ADD4FF}૮꒰◞ ˕ ◟ ྀི꒱ა}}$
