@@ -4,8 +4,9 @@
 
 <div align="center">
 
-${\textsf{\color{#3677B6F0}clowny}}$    
-${\textsf{\color{#3677B6F0}he}}$ ${\textsf{\color{#3677B6F0}╱}}$ ${\textsf{\color{#3677B6F0}him}}$      ${\textsf{\color{#3677B6F0}7teen}}$  
+${\textsf{\color{#3677B6F0}clowny}}$  
+${\textsf{\color{#3677B6F0}he}}$ ${\textsf{\color{#3677B6F0}◞   }}$ ${\textsf{\color{#3677B6F0}him}}$       ${\textsf{\color{#3677B6F0}7teen}}$  
+ 
 </div>
 
 <div align="center">
@@ -13,7 +14,7 @@ ${\textsf{\color{#3677B6F0}he}}$ ${\textsf{\color{#3677B6F0}╱}}$ ${\textsf{\co
 <details>
 <summary> ${\textsf{\color{#5091C0FF}extra}}$ </summary>
   
-  ${\textsf{\color{#5091C0FF}audhd}}$ ${\textsf{\color{#5091C0FF}+}}$ ${\textsf{\color{#5091C0FF}queer}}$   
+  ${\textsf{\color{#5091C0FF}audhd}}$ ${\textsf{\color{#5091C0FF}₊}}$ ${\textsf{\color{#5091C0FF}queer}}$   
   
   ${\textsf{\color{#5091C0FF}my main interest is sasuke from nrt}}$ ${\textsf{\color{#5091C0FF},}}$ ${\textsf{\color{#5091C0FF}talk to me. im am kind}}$
 
